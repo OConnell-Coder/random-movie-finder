@@ -29,9 +29,9 @@ Helpful navigation buttons to run the search again, or to return to the homepage
 
 ## Usage
 
-Website Link: https://skullkid4200.github.io/Atomic-Cats-Project-1/
+Website Link: https://oconnell-coder.github.io/random-movie-finder/
 
-GitHub Repo Link: https://github.com/skullkid4200/Atomic-Cats-Project-1
+GitHub Repo Link: https://github.com/OConnell-Coder/random-movie-finder
 
 ![Homepage](./images/homepage-screenshot.png)
 
